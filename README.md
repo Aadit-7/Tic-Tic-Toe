@@ -1,0 +1,1 @@
+I created a simple and easy-to-use web application for managing your to-do list. You can add, edit and delete tasks as complete. The application was built using HTML, CSS, and JavaScript, and is designed to help you manage your tasks efficiently.Implemented responsive design principles to ensure seamless usability across various devices.
